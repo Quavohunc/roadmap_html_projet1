@@ -3,19 +3,19 @@
 
 Un CV d'une seule page créé en HTML pur, sans CSS.
 
-## Contenu
+# Contenu
 
 - Informations personnelles
 - Compétences
 - Éducation
 - Expérience professionnelle
 
-## Technologies utilisées
+# Technologies utilisées
 
 - HTML5 sémantique
 - Balises meta SEO
 - Balises Open Graph
 
-## Voir le projet
+# Voir le projet
 
-[roadmap.sh - Single Page CV](https://roadmap.sh/projects/single-page-cv)
+https://roadmap.sh/projects/single-page-cv)
